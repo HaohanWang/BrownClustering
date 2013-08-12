@@ -22,5 +22,5 @@ Cluster_fast is a faster but approximate algorithm, it first assigns the most fr
 Reference:
 ------
 1.	Algorithm [Brown et al, 1992](http://dl.acm.org/citation.cfm?id=176316)\\
-2.	Explanantion [PPT from Columbia](www.cs.columbia.edu/~cs4705/lectures/brown.pdf‎)
+2.	Brief Introduction [PPT from Columbia](www.cs.columbia.edu/~cs4705/lectures/brown.pdf‎)
 
